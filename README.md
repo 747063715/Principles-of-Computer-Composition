@@ -1,2 +1,7 @@
 # Principles-of-Computer-Composition
-头歌平台的实验
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
+
+
+
+头歌平台的实验，多多关注
